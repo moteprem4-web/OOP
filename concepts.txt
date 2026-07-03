@@ -1,0 +1,6 @@
+why python is called OOP?
+#advnatges of the OOP:
+you can create your own datatype
+easy debugging
+easy to colab
+
